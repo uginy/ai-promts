@@ -129,6 +129,16 @@ Not every change needs a full audit. Match validation depth to risk:
 
 ---
 
+## 📈 Task Tracking
+
+In any project management tool (Jira, Trello, custom Kanban):
+
+1. **Description = The Goal.** Define what needs to be done. It is the "Source of Truth" for the task.
+2. **Comments = The Story.** Report progress, blockers, and results here.
+3. **Worklogs = The Effort.** Brief summary of activity for the logged duration.
+
+---
+
 ## 💬 Communication Rules
 
 - **Be direct and concise.** Keep tone professional and useful.
